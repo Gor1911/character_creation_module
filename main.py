@@ -4,7 +4,7 @@ from random import randint
 DEFAULT_ATTACK = 5
 # Новая константа — стандартное значение защиты.
 DEFAULT_DEFENCE = 10 
-
+DEFAULT_STAMINA = 80 
 
 class Character:
     # Константа для диапазона очков урона.
